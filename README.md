@@ -8,7 +8,7 @@
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=LinaxT25&line_height=24&show_icons=true&theme=midnight-purple&hide_title=true"/></a>
-    <br>
+    <br><br>
     <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinaxT25&layout=compact&bg_color=000000&text_color=ffffff&icon_color=9f4bff&title_color=9745f5"/></a>
 </div>
