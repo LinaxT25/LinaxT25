@@ -17,7 +17,6 @@
     <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinaxT25&layout=compact&bg_color=000000&text_color=ffffff&icon_color=9f4bff&title_color=9745f5&card_width=500"/></a>
 </div>
- ![](https://komarev.com/ghpvc/?username=LinaxT25&color=green)
  
 
 
