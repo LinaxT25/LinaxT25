@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Discord-LinaxT25-blue"/>
     <img src="https://img.shields.io/badge/Email-vinicius.galvao@ufms.br-blueviolet"/>
     <a href="https://github.com/LinaxT25/Pimenta-Chan"><img src="https://img.shields.io/badge/Working in-Pimenta Chan-red"/></a>
-    <img src="https://komarev.com/ghpvc/?username=LinaxT25&label=Profile%20views&color=ff0080&style=flat"alt="linaxt25"/>
+    <img src="https://komarev.com/ghpvc/?username=LinaxT25&label=Profile%20views&color=ff0080&style=flat"alt="linaxt25"/><br>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=LinaxT25&line_height=24&show_icons=true&theme=midnight-purple&hide_title=true&rank_icon=github"/></a>
