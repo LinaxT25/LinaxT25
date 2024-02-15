@@ -1,5 +1,5 @@
 <div align=center>
-    <h1>Hi! I'm <a href="https://github.com/LinaxT25">LinaxT25</a>! 🎮</h1>
+    <h1>Hi! I'm <a href="https://github.com/LinaxT25">LinaxT25</a>! 🎮</h1><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif"alt="GitHub Octocat Logo"height="80">
     <p align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?             font=Fira+Code&size=25&pause=1000&color=5F37F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!"alt="TypingSVG"/></a>
     </p>
