@@ -8,7 +8,6 @@
     <p align=center>I'm trying my best to became a nice developer. 💻</p>
     <br>
     <img src="https://img.shields.io/badge/Discord-LinaxT25-blue"/>
-    <img src="https://img.shields.io/badge/Email-vinicius.galvao@ufms.br-blueviolet"/>
     <a href="https://github.com/LinaxT25/Pimenta-Chan"><img src="https://img.shields.io/badge/Working in-Pimenta Chan-red"/></a>
     <img src="https://komarev.com/ghpvc/?username=LinaxT25&label=Profile%20views&color=ff0080&style=flat"alt="linaxt25"/>
     <br>
