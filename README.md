@@ -8,7 +8,7 @@
     <p align=center>I'm trying my best to became a nice developer. 💻</p>
     <br>
     <img src="https://img.shields.io/badge/Discord-LinaxT25-blue"/>
-    <a href="https://github.com/LinaxT25/Local-Password-Manager"><img src="https://img.shields.io/badge/Working in-Local Password Manager"/></a>
+    <a href="https://github.com/LinaxT25/Local-Password-Manager"><img src="https://img.shields.io/badge/Working_in-Local_Password_Manager-purple"/></a>
     <img src="https://komarev.com/ghpvc/?username=LinaxT25&label=Profile%20views&color=ff0080&style=flat"alt="linaxt25"/>
     <br>
 </div>
